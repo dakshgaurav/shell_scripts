@@ -1,0 +1,7 @@
+This is 3rd feature of this shell script
+
+
+We are here again to add something
+
+There is some work to solve revert in feature 2 file
+
