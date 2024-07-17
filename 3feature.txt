@@ -4,8 +4,11 @@ This is 3rd feature of this shell script
 We are here again to add something
 
 There is some work to solve revert in feature 2 file
+<<<<<<< HEAD
 ////////////////////////////////
 
 We are making change in dev branch for rebase command
 ///////////////////////
+=======
+>>>>>>> e3c2db2ade070a39ff86f61e3e87888262f39965
 
